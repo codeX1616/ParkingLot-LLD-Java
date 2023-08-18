@@ -1,4 +1,4 @@
-package com.example.parkingLot;
+package com.lld.carRentalSystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
